@@ -1,4 +1,4 @@
-<!DOCTYOPE html>
+<!DOCTYPE html>
 <html> 
 <body>
  <?php
